@@ -25,8 +25,8 @@ A full-stack email campaign management system built with a modern monorepo archi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MrSimple263/-Campaign-Manager.git
-cd https://github.com/MrSimple263/-Campaign-Manager.git
+git clone https://github.com/MrSimple263/Campaign-Manager.git
+cd https://github.com/MrSimple263/Campaign-Manager.git
 ```
 
 2. Start all services:
