@@ -86,11 +86,11 @@ I used Claude Code as a technical planning and structuring assistant, not as an 
 - Broke down complex features into clear phases (backend , frontend, testing)
 Example: campaign lifecycle (draft → scheduled → sent)
 
-### Architecture refactoring
+#### Architecture refactoring
 
 - Proposed refactoring from “fat controllers” → Clean Architecture (Controller → Service → Repository)
 
-### Business rule definition & validation strategy
+#### Business rule definition & validation strategy
 - Helped formalize rules like:
 Only draft campaigns are mutable
 scheduled_at must be in the future
